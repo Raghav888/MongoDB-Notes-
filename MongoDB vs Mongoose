@@ -1,0 +1,3 @@
+MongoDB is database
+Mongoose is warraper over mongoDB. It is an ODM (Object data model).
+Mongoose validate the data, gives nice schema, etc. After doing validation it sends the data to mongodb.
